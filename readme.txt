@@ -1,4 +1,7 @@
+
+
 ---
+
 ## **1. Business Problem**
 
 ### **1.1. Business Objective**
@@ -85,3 +88,4 @@ The solution provides the following business benefits:
 3. **User Satisfaction**: Provides users with a powerful and easy-to-use tool for document analysis, increasing overall satisfaction.
 
 --- 
+
